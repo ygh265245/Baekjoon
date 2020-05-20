@@ -27,6 +27,7 @@ void f(int pos, int k){
 }
 
 
+
 int main(int argc, char** argv) {
 	
 	ios_base::sync_with_stdio(NULL);
